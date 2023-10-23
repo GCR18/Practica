@@ -12,5 +12,8 @@ namespace Practica_taller.context
         public DbSet<estudiante> Estudiantes { get; set; }
         public DbSet<docente> Docentes { get; set; }
         public DbSet<universidad> Universidades { get; set; }
+        public DbSet<materia> Materias { get; set; }
+
+
     }
 }

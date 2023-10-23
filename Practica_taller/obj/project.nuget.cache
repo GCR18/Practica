@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6xTvUe63uY0c5YWyw9LMWDsZsLCs01cBFdWuJLmwzz2iB/nBhPe1MQyorWFzDpI1wiYhBLu/y9ygDJTIBpM6LA==",
+  "dgSpecHash": "c7D5YmdWOBVpbzq/p8VX/VLmog2TbIoQ5+U7PSOGTid+n3yHz/c9F2FCmAuNRwX2ajhYMj6v2yDLRhQCMh/QfA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\COLEGIO UAB\\Downloads\\Practica_taller_074319\\Practica_taller\\Practica_taller.csproj",
+  "projectFilePath": "C:\\Users\\COLEGIO UAB\\Desktop\\gabo\\Practica\\Practica_taller\\Practica_taller.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\COLEGIO UAB\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.11\\microsoft.entityframeworkcore.7.0.11.nupkg.sha512",
     "C:\\Users\\COLEGIO UAB\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\7.0.11\\microsoft.entityframeworkcore.abstractions.7.0.11.nupkg.sha512",

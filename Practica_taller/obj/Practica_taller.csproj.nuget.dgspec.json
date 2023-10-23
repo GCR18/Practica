@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\COLEGIO UAB\\Downloads\\Practica_taller_074319\\Practica_taller\\Practica_taller.csproj": {}
+    "C:\\Users\\COLEGIO UAB\\Desktop\\gabo\\Practica\\Practica_taller\\Practica_taller.csproj": {}
   },
   "projects": {
-    "C:\\Users\\COLEGIO UAB\\Downloads\\Practica_taller_074319\\Practica_taller\\Practica_taller.csproj": {
+    "C:\\Users\\COLEGIO UAB\\Desktop\\gabo\\Practica\\Practica_taller\\Practica_taller.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\COLEGIO UAB\\Downloads\\Practica_taller_074319\\Practica_taller\\Practica_taller.csproj",
+        "projectUniqueName": "C:\\Users\\COLEGIO UAB\\Desktop\\gabo\\Practica\\Practica_taller\\Practica_taller.csproj",
         "projectName": "Practica_taller",
-        "projectPath": "C:\\Users\\COLEGIO UAB\\Downloads\\Practica_taller_074319\\Practica_taller\\Practica_taller.csproj",
+        "projectPath": "C:\\Users\\COLEGIO UAB\\Desktop\\gabo\\Practica\\Practica_taller\\Practica_taller.csproj",
         "packagesPath": "C:\\Users\\COLEGIO UAB\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\COLEGIO UAB\\Downloads\\Practica_taller_074319\\Practica_taller\\obj\\",
+        "outputPath": "C:\\Users\\COLEGIO UAB\\Desktop\\gabo\\Practica\\Practica_taller\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
