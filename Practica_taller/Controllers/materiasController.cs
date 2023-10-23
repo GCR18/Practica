@@ -34,7 +34,7 @@ namespace Practica_taller.Controllers
             return Ok(_aplicacion_Context.Materias.ToList());
 
         }
-        [Route("/id")]
+        [Route("{id}")]
         [HttpPut]
         public IActionResult Put(
             [FromBody] materia Materia)
@@ -43,7 +43,7 @@ namespace Practica_taller.Controllers
             _aplicacion_Context.SaveChanges();
             return Ok(Materia);
         }
-        [Route("/id")]
+        [Route("{id}")]
         [HttpDelete]
         public IActionResult Delete(int ID_materia)
         {
